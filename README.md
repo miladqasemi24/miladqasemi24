@@ -19,14 +19,32 @@ I enjoy transforming ideas into practical applications with clean architecture, 
 * 🌱 Always learning and improving my development skills
 
 ---
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Kotlin
-* Java
-* python
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+
+### Android Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
+
+### Architecture & Libraries
+
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-DI-green?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-Database-orange?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-Networking-blue?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-Flow-purple?style=for-the-badge)
+
+### Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 **Android Development**
 
